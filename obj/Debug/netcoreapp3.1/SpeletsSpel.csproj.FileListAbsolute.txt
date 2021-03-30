@@ -1,0 +1,12 @@
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/bin/Debug/netcoreapp3.1/SpeletsSpel.deps.json
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/bin/Debug/netcoreapp3.1/SpeletsSpel.runtimeconfig.json
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/bin/Debug/netcoreapp3.1/SpeletsSpel.runtimeconfig.dev.json
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/bin/Debug/netcoreapp3.1/SpeletsSpel.dll
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/bin/Debug/netcoreapp3.1/SpeletsSpel.pdb
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.csprojAssemblyReference.cache
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.AssemblyInfoInputs.cache
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.AssemblyInfo.cs
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.csproj.CoreCompileInputs.cache
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.dll
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.pdb
+/Users/linnland/Documents/yrgo/c#/SpeletsSpel/SpeletsSpel/obj/Debug/netcoreapp3.1/SpeletsSpel.genruntimeconfig.cache
